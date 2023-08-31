@@ -5,13 +5,23 @@ https://rushikeshborude.github.io/CodeSoft-Web-Development-Tasks.projects-LEVEL-
 
 
 # this is a images of projects
-![Screenshot (13836)](https://github.com/RushikeshBorude/OASIS-INFOBYTE-Web-Development-and-Designing-Intern-LEVEL-1-Task-1-Landing-Page/assets/86228914/a1cb04c3-70ef-4138-9ccb-5b1a7e3982c8)
+
+
+![Screenshot (13846)](https://github.com/RushikeshBorude/OASIS-INFOBYTE-Web-Development-and-Designing-Intern-LEVEL-1-Task-1-Landing-Page/assets/86228914/508ec43b-b62a-4238-8764-1084e8a2519e)
 
 
 
-![Screenshot (13837)](https://github.com/RushikeshBorude/OASIS-INFOBYTE-Web-Development-and-Designing-Intern-LEVEL-1-Task-1-Landing-Page/assets/86228914/b147aac7-5739-49b0-a1d9-622bb064991b)
+
+
+
+![Screenshot (13847)](https://github.com/RushikeshBorude/OASIS-INFOBYTE-Web-Development-and-Designing-Intern-LEVEL-1-Task-1-Landing-Page/assets/86228914/96cfcb49-fc50-44d9-bf7a-52a50cdb792a)
 
 
 
 
-![Screenshot (13838)](https://github.com/RushikeshBorude/OASIS-INFOBYTE-Web-Development-and-Designing-Intern-LEVEL-1-Task-1-Landing-Page/assets/86228914/d2b0a218-9869-43a9-b4c7-64bb0a5c8e20)
+![Screenshot (13848)](https://github.com/RushikeshBorude/OASIS-INFOBYTE-Web-Development-and-Designing-Intern-LEVEL-1-Task-1-Landing-Page/assets/86228914/ca969b89-3a0a-4f17-9760-f91c56283dab)
+
+
+
+
+
